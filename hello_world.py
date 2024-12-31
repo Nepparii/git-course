@@ -1,3 +1,5 @@
 print("Hello world!") 
-print("Hello once again")  #Alkuperäinen ehkä
 print("Hello darkness my old friend") #Upstream
+print()
+print("I've come to talk with you again")
+
