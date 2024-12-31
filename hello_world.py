@@ -1,4 +1,8 @@
-print("Hello world!") 
-print("Hello darkness my old friend") #Upstream
-print("I've come to talk with you again")
+print("Hello world!")
+print("Not another hello world")
+print("No")
+print("More")
+print("Hello")
+print("World")
+print("Please, I'm begging you")
 
